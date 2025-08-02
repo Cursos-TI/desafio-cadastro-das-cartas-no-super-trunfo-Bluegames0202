@@ -48,7 +48,7 @@ char nomedacidade1[50], nomedacidade2[50];
 
     printf("Digite a quantidade de pontos turisticos da carta2: \n");
     scanf("%d",&numerodepontosturisticos2);
-    //resultado carta 1
+    //RESULTADO DAS CARTAS
  printf("Carta 1 \n");
  printf("Estado: %c \n",estado1);
  printf("Código: %s \n",codigodacarta1);
